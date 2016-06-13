@@ -14,7 +14,7 @@ Note: might not need Webpack with TypeScript 1.8:
 - Now `main.ts` is transpiled into `main.js` which is loaded by `index.html`
 - Optional: use `npm install serve` to `serve` folder at `localhost:3000` to get live reload upon changes
 
-<img src="knockout-3.gif"/>
+<img src="knockout-4.gif"/>
 
 ### Might also need type definitions
 https://blogs.msdn.microsoft.com/typescript/2016/01/28/announcing-typescript-1-8-beta/
