@@ -14,6 +14,7 @@ Note: not using Webpack because TypeScript 1.8:
 - Now `main.ts` is transpiled into `main.js` which is loaded by `index.html`
 - Optional: use `npm install serve` to `serve` folder at `localhost:3000` to get live reload upon changes
 
+
 <img src="knockout-4.gif"/>
 
 ### Might also need type definitions
